@@ -67,6 +67,6 @@ git clone https://github.com/yourusername/london-musical-tickets.git
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - youremail@example.com
+Your Name - sriramabc30@gmail.com
 
 Project Link: [https://github.com/yourusername/london-musical-tickets](https://github.com/yourusername/london-musical-tickets)
