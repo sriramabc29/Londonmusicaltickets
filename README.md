@@ -14,6 +14,7 @@ A modern, professional Java Swing application for booking musical tickets in Lon
 ## Screenshots
 ![Image](https://github.com/user-attachments/assets/b44c8a1c-76e7-48fe-9583-1fc420483098)
 
+## Interface
 ![Image](https://github.com/user-attachments/assets/c7e3a8ac-8628-49b1-a2d6-f4a65b5d7405)
 
 ## Technologies Used
