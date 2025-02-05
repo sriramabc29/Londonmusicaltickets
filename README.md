@@ -70,7 +70,11 @@ git clone https://github.com/yourusername/london-musical-tickets.git
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-Your Name - sriramabc30@gmail.com
+## **Contact**
+For questions, feedback, or collaboration, reach out to me:
+
+- **Email**: [sriramabc30@gmail.com](mailto:sriramabc30@gmail.com)
+- **LinkedIn**: [linkedin.com/in/sriramabc30](https://www.linkedin.com/in/sriramabc30/)
+- **GitHub**: [github.com/sriramabc29](https://github.com/sriramabc29)
 
 Project Link: [https://github.com/yourusername/london-musical-tickets](https://github.com/yourusername/london-musical-tickets)
